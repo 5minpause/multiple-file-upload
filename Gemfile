@@ -46,3 +46,5 @@ end
 
 gem 'paperclip'
 gem 'therubyracer'
+
+gem 'jquery-fileupload-rails'
