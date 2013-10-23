@@ -24,17 +24,7 @@ class UploadsController < ApplicationController
   # POST /uploads
   # POST /uploads.json
   def create
-    @upload = Upload.new(upload_params)
-
-    respond_to do |format|
-      if @upload.save
-        format.html { redirect_to @upload, notice: 'Upload was successfully created.' }
-        format.json { render action: 'show', status: :created, location: @upload }
-      else
-        format.html { render action: 'new' }
-        format.json { render json: @upload.errors, status: :unprocessable_entity }
-      end
-    end
+    @upload = Upload.create(upload_params)
   end
 
   # PATCH/PUT /uploads/1
