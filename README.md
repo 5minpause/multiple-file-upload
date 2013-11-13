@@ -1,5 +1,5 @@
 <!-- Piwik Image Tracker -->
-![](http://gumpy.crux.uberspace.de/piwik/piwik.php?idsite=3&amp;rec=1)
+<img src="http://gumpy.crux.uberspace.de/piwik/piwik.php?idsite=3&amp;rec=1" style="width:1px;height:1px;border:0" alt="piwik tracking image" />
 <!-- End Piwik -->
 # Multiple file upload with Rails 4, jQuery and Paperclip
 
