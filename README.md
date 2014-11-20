@@ -13,5 +13,5 @@ Github](https://github.com/5minpause/multiple-file-upload/issues).
 
 This project uses the MIT License.
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/5minpause/multiple-file-upload/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Dependency Status](https://gemnasium.com/5minpause/multiple-file-upload.svg)](https://gemnasium.com/5minpause/multiple-file-upload)
 
