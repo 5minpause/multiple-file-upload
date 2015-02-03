@@ -36,3 +36,5 @@ pickle-email-*.html
 .project
 config/initializers/secret_token.rb
 .ruby-version
+.ruby-gemset
+/config/database.yml
